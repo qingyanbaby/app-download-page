@@ -1,7 +1,7 @@
 var VersionInfo = {
-  version: '1.0.7',
-  androidUrl: 'http://qiniu.xdm3d.com/1071.apk',
-  releaseTime: 1604564378973,
+  version: '1.1.0',
+  androidUrl: 'http://market.hqsc.net/file/statics/2023/05/03/fb9007d8-9be7-4d9c-9c01-33d96de2f2bb.apk',
+  releaseTime: 1682993410000,
 }
 
 var app = new Vue({
@@ -18,7 +18,7 @@ var app = new Vue({
     }
   },
   beforeCreate () {
-    document.title = "微云验方V" + VersionInfo.version + "下载-青海源创"
+    document.title = "环球商家通V" + VersionInfo.version + "下载-环球水产"
   }
 })
 
